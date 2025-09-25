@@ -8,9 +8,9 @@
 
 📞 Incoming Call Detection
 
-  • GateKeeper monitors incoming calls in real-time
+ &nbsp; • GateKeeper monitors incoming calls in real-time
 
-  • Extracts and analyzes the caller's phone number and country code
+ &nbsp; • Extracts and analyzes the caller's phone number and country code
 
 ✅ Priority Whitelist Check
 
