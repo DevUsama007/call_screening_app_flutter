@@ -8,24 +8,24 @@
 
 📞 Incoming Call Detection
 
-GateKeeper monitors incoming calls in real-time
+   GateKeeper monitors incoming calls in real-time
 
-Extracts and analyzes the caller's phone number and country code
+   Extracts and analyzes the caller's phone number and country code
 
 ✅ Priority Whitelist Check
 
-Number found in whitelist: Call rings normally (highest priority)
+   Number found in whitelist: Call rings normally (highest priority)
 
-Number not in whitelist: Proceeds to country code analysis
+   Number not in whitelist: Proceeds to country code analysis
 
 🌍 Country Code Verification
 
-Country code allowed: Call rings through
+   Country code allowed: Call rings through
 
-Country code blacklisted: Call automatically blocked
+   Country code blacklisted: Call automatically blocked
 
 📊 Smart Tracking
 
-Blocked calls counter increments automatically
+   Blocked calls counter increments automatically
 
-Visual statistics displayed in the dashboard
+   Visual statistics displayed in the dashboard
