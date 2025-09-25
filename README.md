@@ -6,7 +6,7 @@
 
  # 🛡️ How GateKeeper Works
 
-📞 Incoming Call Detection
+**📞 Incoming Call Detection**
 
  &nbsp;• GateKeeper monitors incoming calls in real-time
 
