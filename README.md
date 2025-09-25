@@ -8,9 +8,9 @@
 
 📞 Incoming Call Detection
 
-   GateKeeper monitors incoming calls in real-time
+  • GateKeeper monitors incoming calls in real-time
 
-   Extracts and analyzes the caller's phone number and country code
+  • Extracts and analyzes the caller's phone number and country code
 
 ✅ Priority Whitelist Check
 
@@ -29,3 +29,29 @@
    Blocked calls counter increments automatically
 
    Visual statistics displayed in the dashboard
+
+ ✨ Key Features
+ 
+Core Functionality
+
+Dual-Layer Protection: Whitelist priority with country code fallback
+
+Real-time Call Screening: Instant analysis of incoming calls
+
+Automatic Call Blocking: Seamless blocking of unwanted calls
+
+Management Tools
+
+Whitelist Management: Add, edit, and remove trusted contacts
+
+Country Code Blacklist: Block entire geographic regions
+
+Interactive Dashboard: Clear overview of screening activity
+
+User Experience
+
+Block Counter: Real-time tracking of blocked calls
+
+Intuitive UI: Material Design with smooth animations
+
+Permission Guidance: Step-by-step setup assistance
