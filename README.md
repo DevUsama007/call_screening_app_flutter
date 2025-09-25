@@ -55,3 +55,5 @@
 • Intuitive UI: Material Design with smooth animations
 
 • Permission Guidance: Step-by-step setup assistance
+## Disclaimer
+GateKeeper is designed for personal use. While we strive for 100% accuracy, some calls might not be screened correctly due to Android system limitations. Always check your call log for important missed calls.
