@@ -8,50 +8,50 @@
 
 📞 Incoming Call Detection
 
- &nbsp;• GateKeeper monitors &nbsp; incoming calls in real-time
+ &nbsp;• GateKeeper monitors incoming calls in real-time
 
  &nbsp;• Extracts and analyzes the caller's phone number and country code
 
 ✅ Priority Whitelist Check
 
-   Number found in whitelist: Call rings normally (highest priority)
+   • Number found in whitelist: Call rings normally (highest priority)
 
-   Number not in whitelist: Proceeds to country code analysis
+   • Number not in whitelist: Proceeds to country code analysis
 
 🌍 Country Code Verification
 
-   Country code allowed: Call rings through
+   • Country code allowed: Call rings through
 
-   Country code blacklisted: Call automatically blocked
+   • Country code blacklisted: Call automatically blocked
 
 📊 Smart Tracking
 
-   Blocked calls counter increments automatically
+   • Blocked calls counter increments automatically
 
-   Visual statistics displayed in the dashboard
+   • Visual statistics displayed in the dashboard
 
  ✨ Key Features
  
 Core Functionality
 
-Dual-Layer Protection: Whitelist priority with country code fallback
+• Dual-Layer Protection: Whitelist priority with country code fallback
 
-Real-time Call Screening: Instant analysis of incoming calls
+• Real-time Call Screening: Instant analysis of incoming calls
 
-Automatic Call Blocking: Seamless blocking of unwanted calls
+• Automatic Call Blocking: Seamless blocking of unwanted calls
 
 Management Tools
 
-Whitelist Management: Add, edit, and remove trusted contacts
+• Whitelist Management: Add, edit, and remove trusted contacts
 
-Country Code Blacklist: Block entire geographic regions
+• Country Code Blacklist: Block entire geographic regions
 
-Interactive Dashboard: Clear overview of screening activity
+• Interactive Dashboard: Clear overview of screening activity
 
 User Experience
 
-Block Counter: Real-time tracking of blocked calls
+• Block Counter: Real-time tracking of blocked calls
 
-Intuitive UI: Material Design with smooth animations
+• Intuitive UI: Material Design with smooth animations
 
-Permission Guidance: Step-by-step setup assistance
+• Permission Guidance: Step-by-step setup assistance
