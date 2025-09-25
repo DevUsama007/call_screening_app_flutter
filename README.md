@@ -12,27 +12,27 @@
 
  &nbsp;• Extracts and analyzes the caller's phone number and country code
 
-✅ Priority Whitelist Check
+**✅ Priority Whitelist Check**
 
    • Number found in whitelist: Call rings normally (highest priority)
 
    • Number not in whitelist: Proceeds to country code analysis
 
-🌍 Country Code Verification
+**🌍 Country Code Verification**
 
    • Country code allowed: Call rings through
 
    • Country code blacklisted: Call automatically blocked
 
-📊 Smart Tracking
+**📊 Smart Tracking**
 
    • Blocked calls counter increments automatically
 
    • Visual statistics displayed in the dashboard
 
- ✨ Key Features
+ **✨ Key Features**
  
-Core Functionality
+**Core Functionality**
 
 • Dual-Layer Protection: Whitelist priority with country code fallback
 
@@ -40,7 +40,7 @@ Core Functionality
 
 • Automatic Call Blocking: Seamless blocking of unwanted calls
 
-Management Tools
+**Management Tools**
 
 • Whitelist Management: Add, edit, and remove trusted contacts
 
@@ -48,7 +48,7 @@ Management Tools
 
 • Interactive Dashboard: Clear overview of screening activity
 
-User Experience
+**User Experience**
 
 • Block Counter: Real-time tracking of blocked calls
 
